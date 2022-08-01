@@ -1,24 +1,24 @@
-# README
+# 最強sns
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+<ニコニコ動画、youtubeに次ぐ次世代の動画投稿サイト>
 
-Things you may want to cover:
+### テーマを選んだ理由
+<日本の動画文化の主流がニコニコ動画からyoutubeにうつって早数年…そろそろ新しいサイトがその立場をとってかわってもよいころだと思い、このテーマにしました。>
 
-* Ruby version
+### ターゲットユーザ
+<老若男女問わず、インターネットを利用するすべての人>
 
-* System dependencies
+### 主な利用シーン
+<毎日の娯楽や新しい発見を得るために>
 
-* Configuration
+## 設計書
+<...>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
